@@ -1,2 +1,3 @@
-# Traffic_Predicition-
+# Traffic_Predicition
 In this project some of the common and familiar  machine learning concepts like Random Forest (RF)  and SVR (Support Vector Regression) are applied on  the dataset for the traffic flow predictions.  The performance of the proposed  system can be evaluated by using accuracy. 
+This research-based practice project focuses on traffic congestion prediction using machine learning algorithms like random forest and Support Vector Regression. The dataset includes date, day, coded day, zone, temperature, and traffic. The data is recorded in DD/MM/YYYY format, with day codes assigned to make it easier to predict traffic based on the day. The temperature is coded based on typical weather conditions, and the traffic is coded on a five-level scale. The model achieved an accuracy of 13.42% using Random Forest and 86.58% using Support Vector Regression.
