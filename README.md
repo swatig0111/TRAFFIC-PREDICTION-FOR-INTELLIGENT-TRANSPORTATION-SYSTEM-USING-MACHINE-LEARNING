@@ -46,9 +46,5 @@ The models were evaluated based on accuracy:
 The project demonstrates that Support Vector Regression significantly outperforms Random Forest in predicting traffic flow with the given dataset, achieving an accuracy of 87.84% compared to 110.08%.
 
 ## Reference used 
-https://github.com/Nupurgopali/Traffic-Prediction-using-SVR-and-RFR/blob/master/svr.py
-G. Meena, D. Sharma and M. Mahrishi, "Traffic Prediction for Intelligent Transportation System 
-using Machine Learning," 2020 3rd International Conference on Emerging Technologies in Computer 
-Engineering: Machine Learning and Internet of Things (ICETCE), 2020, pp. 145-148, 
-doi:10.1109/ICETCE48199.2020.9091758 
+https://github.com/Nupurgopali/Traffic-Prediction-using-SVR-and-RFR/blob/master/svr.py 
 https://www.openstreetmap.org/export#map=15/21.2223/72.8374
